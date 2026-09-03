@@ -14,6 +14,6 @@ This project examines whether one branch is functioning as an informal regional 
 
 The goal is to determine whether recurring transfer activity represents predictable regional deman that could be planned for more proactively. Identifying these patterns could support better inventory planning while reducing reliance on reactive, one-off transfer requests.
 
-## Methodolofy
+## Methodology
 
 Transfer activity was measured using **unique transfer orders** rather than total item quantity. A single transfer order may contain multiple product lines, while quantities can represent different units of measure across products. To avoid overstating transfer activity, a unique transfer identifier was created in Excel to distinguish individual transfer orders from their underlying line items.
